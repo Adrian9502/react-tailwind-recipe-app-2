@@ -19,5 +19,5 @@ The Recipe App lets users search for recipes instantly as they type. Users can s
 
 ## Preview
 
-![Alt text](./gif.gif)
+![Alt text](./preview.gif)
 ![Alt text](./img.png)
